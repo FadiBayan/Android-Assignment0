@@ -14,5 +14,7 @@ public class MainActivity extends AppCompatActivity {
         // Find the TextView and set your name
         TextView textView = findViewById(R.id.textView);
         textView.setText("Fadi Bayan");
+        TextView textView2 = findViewById(R.id.textView3);
+        textView2.setText("Georgio Bou Sleiman");
     }
 }
